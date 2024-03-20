@@ -57,6 +57,7 @@ h2 {
     border-radius: 5px; /* Add rounded corners to the options */
     cursor: pointer; /* Change cursor to pointer when hovering over options */
     transition: background-color 0.3s; /* Add transition effect for smoother hover */
+    list-style: upper-alpha;
 }
 
 /* Style for hover effect */
